@@ -1,2 +1,15 @@
-# Smart-Contract-Security
-Smart-Contract-Security
+# Smart Contract Security Audit Notes (智能合约安全审计笔记)
+
+本仓库用于记录我对 Solidity 合约漏洞和安全最佳实践的研究。
+
+本仓库旨在：
+1. 追踪 DeFi 历史上发生的主要安全事件和攻击手法。
+2. 记录常见的漏洞模式（如重入、访问控制）。
+
+---
+
+## 🛡️ 查看每日安全追踪
+
+所有最新的安全分析和漏洞学习记录都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
